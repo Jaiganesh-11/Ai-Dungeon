@@ -26,8 +26,3 @@ It transforms your imagination into unique stories by letting you pick genres, c
 
 ---
 
-## 🚀 Installation & Setup
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/your-username/dreamweaver-ai.git
-   cd dreamweaver-ai

@@ -78,6 +78,8 @@ It transforms your imagination into unique stories by letting you pick genres, c
 
 ## 👨‍💻 Author
 - **Developed with ❤️ using Python, Streamlit, and AI.**
+  
+---
 
 ## 📌 Explanation:
 - **streamlit → The framework for building the interactive web app**

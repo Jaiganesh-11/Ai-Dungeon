@@ -69,18 +69,18 @@ It transforms your imagination into unique stories by letting you pick genres, c
 ---
 
 ## 📌 Future Improvements
--**Add more story genres**
--**Support long-form story saving**
--**Enhance UI animations and interactivity**
--**Deploy online via Streamlit Cloud / Hugging Face Spaces**
+- **Add more story genres**
+- **Support long-form story saving**
+- **Enhance UI animations and interactivity**
+- **Deploy online via Streamlit Cloud / Hugging Face Spaces**
 
 ---
 
 ## 👨‍💻 Author
--**Developed with ❤️ using Python, Streamlit, and AI.**
+- **Developed with ❤️ using Python, Streamlit, and AI.**
 
 ## 📌 Explanation:
--**streamlit → The framework for building the interactive web app**
--**transformers → Provides GPT-Neo model and tokenizer**
--**torch → Backend deep learning library required by GPT-Neo**
--**Pillow → Used for image handling (placeholders/screenshots, etc.)**
+- **streamlit → The framework for building the interactive web app**
+- **transformers → Provides GPT-Neo model and tokenizer**
+- **torch → Backend deep learning library required by GPT-Neo**
+- **Pillow → Used for image handling (placeholders/screenshots, etc.)**
